@@ -1,4 +1,4 @@
-this is the first commit
+this si another commit to configure merge
 
+final commit
 
-this is the second commit
